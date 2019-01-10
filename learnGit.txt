@@ -1,4 +1,6 @@
 learn git 
 v0 git clone
 v1 git commited
-V2 git diff
+V1.1 git diff
+v2.0 git push
+
