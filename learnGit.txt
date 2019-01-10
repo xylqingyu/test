@@ -1,1 +1,4 @@
-learn git 2019-01-10
+learn git 
+v0 git clone
+v1 git commited
+V2 git diff
